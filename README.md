@@ -30,9 +30,10 @@ This will show up on your bill as "Paddle".
 3. You can select multiple **categories** or subcategories to include - selecting a category is the same as selecting *all* subcategories.
 4. You can **pause** the search at any time by selecting the pause checkbox at the top of the screen, this will stop KeepUp from checking for updates while it is paused.
 5. You can **mute** the search at any time by selecting the mute checkbox at the top of the screen, this will stop KeepUp from playing sound when jobs are returned.
+8. Your preferences as selected here will be saved for next time.
 6. To **Log out**, click on the dropdown list at the top right of the screen, and click 'Log out'.
 7. To raise a **Support ticket**, including for any account related inquiries or to cancel your subscription, click on the dropdown list at the top right of the screen and click 'Support'. A link to support is also found at the bottom of the screen.
 
 ## Updates
 
-KeepUp will automatically scan for new versions on startup. If there are any new versions of KeepUp available, KeepUp will download and install them automatically. The new version will run the next time that you start KeepUp.
+KeepUp will automatically scan for new versions on startup. If there are any new versions of KeepUp available, KeepUp will download and install them automatically. The new version will run the next time that you start KeepUp. You won't have to reset your preferences.
